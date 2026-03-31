@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "駄文",
+  "base_artist": "エイハブ",
+  "createdAt": "2026-03-31T14:53:11.058104Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "駄文",
+      "artist": "エイハブ",
+      "has_synced": false,
+      "path": "select/pl_01_駄文_エイハブ.txt"
+    }
+  ]
+}
